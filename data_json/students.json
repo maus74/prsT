@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Ivanov Petr",
+      "group": "1",
+      "avg": "4.25",
+      "debt": "C++"
+    },
+    {
+      "name": "Sidorov Ivan",
+      "group": "2",
+      "avg": 4,
+      "debt": "Python"
+    },
+    {
+      "name": "Pertov Nikita",
+      "group": "IU8-31",
+      "avg": 3.33,
+      "debt": "C++"
+    }
+  ],
+  "_meta": {
+    "count": 3
+  }
+}
